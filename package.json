@@ -6,6 +6,10 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@sap-cloud-sdk/connectivity": "^3.26.0",
+    "@sap-cloud-sdk/http-client": "^3.26.0",
+    "@sap-cloud-sdk/resilience": "^3.26.0",
+    "@sap-cloud-sdk/util": "^3.26.0",
     "@sap/cds": "^8",
     "express": "^4"
   },
